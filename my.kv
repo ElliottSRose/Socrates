@@ -1,0 +1,21 @@
+
+GridLayout:
+    cols: 1
+    Label:
+        size_hint_y: .3
+        text: "Start Socrates"
+
+        Button:
+            size_hint_y: .2
+            text:"Submit"
+            on_release: 
+                app.root.current = "second"
+                root.manager.transition.direction = "up"
+    
+    Button:
+        font_size: 30
+        color:0.6,0.6,0.4,1
+        size_hint: 1, 0.2
+
+            
+            
