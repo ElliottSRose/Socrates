@@ -5,8 +5,7 @@ Created on Sat Apr 11 09:39:05 2020
 
 @author: elliott
 """
-
-from SocratesSpeaker import *
+import pyttsx3
 import threading
 
 class Speaker():
@@ -24,7 +23,7 @@ class Speaker():
                    
     def stop(self):
         self.engine.stop()
-        self.engine.endLoop()
+        # self.engine.endLoop()# causing kivy to crash
         self.thread.join()
         
     def respond(self,responseType):

@@ -30,25 +30,32 @@ class MyGrid(GridLayout):
     
     # @mainthread  
     def pressed(self,instance):
-        if self.submit.text == "Stop":
+        if self.submit.text != "Stop":
+            self.submit.text = "Stop"
+            thread = threading.Thread(target=startSocrates,args=(self.q,))
+            thread.start() 
+            #maybe i should try tracking the thread ID
+        elif self.submit.text == "Stop":
             self.submit.text = "Stopping..."
             try:
                 print('Putting stopper')
                 self.q.put_nowait('stop')
-                while True:
-                    if thread.is_alive()==False:
-                        thread.join()
-                        print('thread stopped')
-                        self.submit.text = "Press anywhere for Socrates" 
-                    else:
-                        print('Thread is still alive')
+                print('Stopper placed')
             except: 
                 pass
         else:
-            self.submit.text = "Stop"
-            thread = threading.Thread(target=startSocrates,args=(self.q,))
-            thread.start() 
-            
+            print(thread)
+            print('thread information should be printing')
+            print(thread.is_alive)
+            while True:
+                if thread.is_alive()==False:
+                    print('thread isn''t alive, attempting to join')
+                    thread.join()
+                    print('thread stopped')
+                    self.submit.text = "Press anywhere for Socrates" 
+                else:
+                    print('Thread is still alive')      
+                
 class MyApp(App):
     def build(self):
         return MyGrid()

@@ -37,12 +37,9 @@ def wikiAnswer(sentence):
     tags = BeautifulSoup(data,'lxml', parse_only=links)
     return tags.text
 
-# def sfEMSProtocols():
+# def sfEMSProtocols():# to organize protocols into text files for Socrates
 #     path = 'EMS_ProtocolManual_020320.pdf'
-# #    listOfPages = []
-#     protocolsInOneLongString = ''
-#     protocol = 1.1 
-#     file = 2 #this must be changed, this is a work in progress
+#     protocol = "1.1" 
 #     with open(path, 'rb') as f:
 #         pdf = PdfFileReader(f)
 #         for i in range(5,pdf.getNumPages()):
@@ -51,13 +48,16 @@ def wikiAnswer(sentence):
 #             page = pdf.getPage(i) 
 #             text = page.extractText()
 #             pNum = text[0:6]
-#             # if protocol in pNum:
+#             print('just indexed', pNum)
+#             if protocol in pNum:
+#                 f = open(pNum+".txt", "a")
+#                 f.write(text)
+#                 f.close()
+#             else:
+#                 protocol = pNum
+#                 f = open(pNum+".txt", "a")
+#                 f.write(text)
+#                 f.close()
                 
-#             print('re attempt', re.search(r'.\n', text[0:20]))            
-            # print('re attempt', re.search(r'.\d''.''\d*', text[0:20]))
-            
-            # protocolsInOneLongString= protocolsInOneLongString+text.strip()
-#            listOfPages.append(text)
-    # return protocolsInOneLongString
             
     

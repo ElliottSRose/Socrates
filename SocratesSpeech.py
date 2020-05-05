@@ -13,6 +13,7 @@ import re
 from SocratesSkills import*
 from SocratesListener import *
 from SocratesSpeaker import *
+from difflib import SequenceMatcher
 
 #--------------------------STRING OUTPUT ORGANIZATION-------------------------
 def textSeparator(text):
@@ -28,17 +29,16 @@ def textOrganizer(text):
 def findFile(triggerWord): 
     print(triggerWord)
     folder = []
-    for (dirpath, dirnames, filenames) in walk('.'):
+    for (dirpath, dirnames, filenames) in walk('./protocols'):
         folder.extend(filenames)
         break
-    result = [files for files in folder if triggerWord.lower() in files.lower()] 
-    print('I\'ve found these files:', result)
-    choice = input('Which index would you like? ')
-    return result[int(choice)]
+    result = [SequenceMatcher(a=triggerWord,b=files.lower()).quick_ratio()for files in folder] #s.set_seq2(files.lower())
+    bestMatch = result.index(max(result))
+    return folder[bestMatch]
 
 def openFile(triggerWord):
     path = findFile(triggerWord)
-    with open(path, 'r') as file:
+    with open('./protocols/'+ path, 'r') as file:
         text = file.read().strip('\n[0-9]')
         file.close()
         return text
@@ -112,31 +112,4 @@ def createSavedSpeechFiles(text):
     filename = input('Filename= ')
     tts.save(filename)
 
-
-#def speak(text,engine):
-#    def onEnd(name, completed):
-#       print ('finishing', name, completed)
-#       engine.stop()
-#       engine.endLoop()
-#       thread.join()
-#    engine.connect('finished-utterance', onEnd)
-#    engine.setProperty('voice','com.apple.speech.synthesis.voice.daniel')
-#    engine.say(text, 'Answer')
-#    try:
-#        return engine.startLoop() 
-#    except Exception:
-#        pass #handle nonsensical exception thrown ('nextfire'attribute error)
-#
-#def stopAndDeleteEngine(engine, thread):
-#            engine.stop()
-#            engine.endLoop()
-#            thread.join()
-#            del engine
-#    
-#def speaker(text):
-#    engine = pyttsx3.init()
-#    thread = threading.Thread(target=speak, args=(text,engine,)) # Always put a comma after the arguments. Even if you have only one arg.
-#    thread.start() # Start the thread
-#    return engine, thread
-#    
 

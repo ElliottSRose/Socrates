@@ -17,7 +17,7 @@ from SocratesSpeech import *
 def startSocrates(q=False):
     if q is not None:
         q.queue.clear() #if Socarates is ran withouth the UI, this keeps the queue clear
-    playsound('hello.mp3')
+    playsound('Yes.mp3')
     while True:
         query = listener(q)
         if query=='stop':
