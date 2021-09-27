@@ -6,6 +6,8 @@ Created on Sat May  2 21:14:51 2020
 @author: elliott
 """
 
+# from PyPDF2 import PdfFileReader
+
 # def sfEMSProtocols():# to organize protocols into text files for Socrates
 #     path = 'EMS_ProtocolManual_020320.pdf'
 #     protocol = "1.1" 

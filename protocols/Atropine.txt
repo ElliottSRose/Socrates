@@ -1,0 +1,103 @@
+6 
+ATROPINE SULFATE
+   ACTION:  
+Anticholinergic
+ (Vagolytic)
+  Blocks acetylcholine receptors 
+resulting in reduction of 
+parasympath
+athetic tone and 
+increased 
+conduction through the AV node.
+  Increases sinus node automaticity and AV conduction when suppressed by abnormal 
+parasympathetic or vagal discharges.
+  Antagonizes action of organophosphate agents
+.  
+INDICATIONS:
+  Symptomatic bradycardia
+. 
+ Organophosphate or carbamate insecticide
+ or nerve agent exposure
+. 
+ 
+CONTRAINDICATIONS:
+  Atrial 
+fibrillation or atrial flutter
+  
+ Glaucoma
+  
+POTENTIAL SIDE EFFECTS:
+  Increase heart rate causing tachycardias
+.  Post
+-atropine tachycardias can precipitate V
+-Fib 
+or 
+V-
+Tach.
+  Can worsen patient™s ischemia or extend size of 
+
+infarct.
+  Dry mouth.
+  Doses lower than 0.5 mg can 
+produce slowing of the heart.
+  Dilated pupils.
+  Decreased salivation.
+  Flushed, hot skin.
+   
+ADULT DOSE/ROUTE
+: 
+ Symptomatic B
+radycardia
+:  0.5
+mg IVP
+ or 
+IO. May repeat 
+every
+5min
+ up to 3 mg
+ if no 
+resolution of bradycardia.
+  Organophosphate 
+Poisoning
+/Nerve agent 
+Exposure
+:  2 Œ 5
+mg 
+IVP
+ or IO. 
+May repeat 
+in 5 minutes.
+ No max dose. 
+  
+PEDIATRIC DOSE/ROUTE:
+  Symptomatic 
+Bradycardia: 
+ 0.02 mg/kg 
+IVP
+ or IO (min dose 0.1mg, max dose 0.5mg)
+  Organophosphate 
+Poisoning
+:  0.0
+2 
+mg/kg 
+IVP
+ or 
+IO (min dose 0.1mg, no max dose
+) 
+ 
+NOTES:
+  External pacing is the treatment of choice for symptomatic bradycardia if there is suspected 
+myocardial ischemia, or 2
+nd or 3
+rd
+ degree AV blocks are present.
+  Can be given IM in thigh for suspected organophosphate poisoning
+ /
+nerve agent exposure.
+  Note:
+ the primary cause of bradycardia in pediatric patients is hypoxia.
+ Atropine is no longer recommended for adult or pediatric asystole. 
+  Effective: 11/01/17
+ Supersedes: 
+03/01/15
+  

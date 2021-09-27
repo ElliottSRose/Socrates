@@ -1,0 +1,85 @@
+2 
+ADENOSINE (
+Adenocard)
+  ACTION: Antiarrhythmic
+  Decreases conduction through the atrioventricular (AV) node interrupting re
+-entry 
+pathways. 
+  Interrupts
+ and may convert
+ paroxysmal supraventricular tachycardia (PSVT).
+   INDICATIONS
+: 
+ Hemodynamically stable PSVT.
+  Narrow and w
+ide
+-complex
+, regular, monomorphic 
+tachycardia
+. 
+ 
+CONTRAINDICATIONS:
+  2nd or 3rd degree AV block
+  Sick sinus syndrome.
+  Polymorphic wide complex 
+tachycardia
+  Do not use 
+Adenosine
+ on a patient with a known history of Wolff
+-Parkinson
+-White (WPW) 
+syndrome. 
+   
+ POTENTIAL SIDE EFFECTS:
+  Transient asystole (up to 20 to 30 secs.)
+  Dyspnea and bronchospasms
+  Chest pressure
+  Hypotension
+  Facial flushing and 
+headaches
+  Nausea
+  
+ADULT DOSE/ROUTE
+: 
+ First dose
+: 6 mg rapid IVP/IO
+* followed with 20 ml Normal Saline flush. 
+  If first dose 
+ineffective, repeat with 
+12 mg rapid IVP/IO
+.* M
+ay repeat 12mg x 1 if 
+still 
+ineffective.
+ *IV preferred route
+  
+PEDIATRIC 
+DOSE/ROUTE
+: 
+ First dose
+: 0.1 mg/kg rapid IVP/IO
+*followed by 10ml NS flush (max first dose 6 mg)
+. 
+ If first dose
+ ineffective, repeat with
+ 0.2 mg/kg rapid IVP/IO
+* (max second dose 12 mg)
+. May 
+repeat 0.2 mg/kg x 1 if 
+still 
+ineffective.
+ *IV preferred route
+  
+NOTES:
+  Clinically evaluate patients
+Šadult and pediatric
+Što distinguish primary tachyarrhythmias 
+such as PSVT
+Šfrom patient conditions leading to sinus tachycardias.
+  Adenosine is blocked by methylxanthines (caffeine) and potentiated by dipyridamole and 
+
+carbamazepine.
+ Effective: 11/01/17
+ Supersedes: 
+03/01/15
+   

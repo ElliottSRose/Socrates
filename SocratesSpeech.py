@@ -41,8 +41,8 @@ def openFile(triggerWord):
     with open('./protocols/'+ path, 'r') as file:
         text = file.read().strip('\n[0-9]')
         file.close()
-        return text
-        
+        return text   
+       
 def getAnswer(q,sentence):
 #To format our queries, we need to parse the sentence into
 #usable chunks. This function will do that with 
@@ -54,13 +54,12 @@ def getAnswer(q,sentence):
         if len(sentence)>1 and triggerWord =='search':
             playsound('okSearch.mp3')
             query = wikiAnswer(toList[1])
-            return answerNavigator(q,query)
+            return query
         
         elif triggerWord == 'open':
             playsound('okOpen.mp3')
             query = openFile(toList[1])
-            return answerNavigator(q,query)
-        
+            return query        
         # else:
         #     playsound('okMIT.mp3')
         #     answer = getMITAnswer(sentence)
@@ -71,28 +70,23 @@ def getAnswer(q,sentence):
     
 def createSpeaker():
     return Speaker()   
-    
-def answerNavigator(q,text):
+
+def answerNavigator(q,s,command,text):
 #This function should take command to find a keyword and then read from that sentence on
     text = str(text)
     print(text)
-    
-    s = createSpeaker()
-    s.speaker(text)
-    
-    command = listener(q)
-    command = command.split(' ',1)
-    
+
     if command[0] == 'find':
         s.stop() 
         playsound('letMeCheck.mp3')
-        firstIndex = re.search(r'[^?.]*'+ command[1],text)
+        firstIndex = re.search(r'[^?.]*'+ command[1].lower(),text.lower())# needs to be adjusted for case sensitivity
         if firstIndex!=None:
             print('FOUNDTEXT:',(text[firstIndex.start():]))
-            return answerNavigator(q,text[firstIndex.start():])
+            # return answerNavigator(q,s,command,text[firstIndex.start():])
+            return text[firstIndex.start():]
         else: 
             print('I couldn\'t find that')
-            return answerNavigator(q,text)
+            return False
         
     elif command[0] =='stop':
         s.stop()
@@ -100,10 +94,9 @@ def answerNavigator(q,text):
         print("Okay, I'll shut up")
         q.put('stop')
         return 'stop'
-    else:
-        print('Sorry, I\'m not programmed for that command yet.')
-        return False
-
+    # else:
+    #     print('Sorry, I\'m not programmed for that command yet.')
+    #     return False
 
 #=============================----------SPEAKER-------------===================       
 def createSavedSpeechFiles(text):

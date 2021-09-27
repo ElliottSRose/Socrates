@@ -1,0 +1,76 @@
+2.08 
+DYSRHYTHMIA
+: TACHYCARDIA
+   SAN FRANC
+ISCO EMS AGENCY  
+ Effective: 03/01/15
+ Supersedes: 01/
+07/13   Page 
+1 
+of 
+1  BLS Treatment
+  Position of comfort
+.  NPO
+  Oxygen
+ as indicated
+. 
+ALS Treatment
+ Current American Heart Association Guidelines concerning Emergency Cardiac Care 
+assessments and interventi
+ons shall always take precedence over local protocols when 
+there is a conflict concerning techniques of resuscitation.
+   IV/IO with 
+Normal Saline
+ TKO, preferably at antecubital fossa.
+  12-l
+ead EKG
+ (
+If symptomatic
+, d
+o not delay therapy in order to obtain 12 lead
+). 
+ Treat if
+ >150 BPM
+ and patient is symptomatic.
+  STABLE AND NARROW (QRS < 0.12 seconds)
+: 
+ Vagal maneuvers (Valsalva, cough or breath holding).
+  Adenosine
+  
+STABLE AND WIDE (QRS > 0.12 seconds)
+: 
+ Amiodarone
+  
+ For Torsades de Pointes, 
+administer 
+Magnesium Sulfate
+. 
+UNSTABLE
+: 
+ Synchronized cardioversion
+  If sedation is needed for awake patient during anticipated cardioversion AND if SBP >90, 
+may administer
+ Midazolam
+ and/or
+: 
+ Morphine Sulfate
+   If UNSTABLE, 
+NARROW and REGULAR
+: 
+Adenosine
+ may be substituted for cardioversion
+.   If UNSTABLE AND WIDE and synchronized cardioversion fails
+: administer
+ Amiodarone
+. 
+ Base Hospital Contact Criteria
+ Contact Base Hospital physician before administering 
+Midazolam
+ and 
+Morphine
+ together.
+  Comments
+ ATRIAL FIBRILLATION
+  Only administer synchronized cardioversion for atrial fibrillation if p
+atient is unstable.
+   

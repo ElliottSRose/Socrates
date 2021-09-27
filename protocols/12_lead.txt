@@ -1,0 +1,165 @@
+7.10
+ 12
+-LEAD
+ ELECTROCARDIOGRAM
+ PROCEDURE
+   _____________________________________________________________________________________________________________________
+SAN
+ FRANCISCO
+ EMS
+ AGENCY
+   Effective:
+ 10
+/29
+/18
+ Supersedes:
+ 01/30/17
+ Page
+ 1 
+of 2
+ INDICATIONS 
+ Any patient with known or suspected Acute Coronary Syndrome (ACS). Examples: 
+  Sub
+sternal pain 
+  Discomfort or tightness radiating to the jaw, left shoulder or arm 
+  Nausea 
+  Diaphoresis 
+  Dyspnea 
+  Anxiety 
+  Syncope/dizziness 
+  Other ﬁsuspicious symp
+tomsﬂ 
+  Known treatment for ACS 
+  PROCEDURE 
+ 1. Input the following MANDATORY patient information PRIOR to acquiring 12
+-lead EKG:
+ a) Patient
+ Last
+ Name
+ + 
+First
+ Initial
+ b) Gender
+ c) Age
+ d) Under
+ the
+ patient
+ ID field,
+ list
+ ambulance
+ unit
+ number.
+ List
+ as ﬁSFFD
+ 74,ﬂ
+ etc.
+ to avoid
+ confusion
+ between
+ ambulance
+ unit
+ number
+ and
+ patient
+ age.
+   
+ 2. Attach EKG leads to the patient (limb leads to the upper arms, ankles and six chest 
+
+leads) and perform EKG. 
+  V1: right 4th intercostal space 
+  V2: left 4th intercostal space 
+  V3: halfway betwee
+n V2 and V4
+  V4: left 5th intercostal space, mid
+-clavicular line 
+  V5: horizontal to V4, anterior axillary line 
+  V6: horizontal to V5, mid
+-axillary line 
+  V4R: right 5th intercostal space, mid
+-clavicular line (use in all suspected inferior 
+MI™s for establishi
+ng appropriateness for administering 
+Nitroglycerin
+ or 
+Morphine
+) Any Lead II, III AVF ST elevation shall receive 
+V4R prior to 
+administration of 
+Nitroglycerin
+ or 
+Morphine
+. 
+3. Serial 12
+-Lead EKGs en
+-route are encouraged. 
+  
+STEMI 
+EKG CRITERIA  
+  If the EKG indicates an ST elevation M
+I by either of the methods
+ below
+, transport to an 
+approved STAR Cardiac Receiving Center according to 
+Policy
+ 5000
+ Destination
+.  o Convex or flat ST segment elevation of more than 1 mm (one small box) in two or 
+
+more contiguous leads.
+ o EKG machine interpretation ***ACUTE STEMI*** or similar wording.
+ 7.10
+ 12
+-LEAD
+ ELECTROCARDIOGRAM
+ PROCEDURE
+   _____________________________________________________________________________________________________________________
+SAN
+ FRANCISCO
+ EMS
+ AGENCY
+   Effective:
+ 10
+/29
+/18
+ Supersedes:
+ 01/30/17
+ Page
+ 2 
+of 2
+  Provide early notifica
+tion 
+to the STAR 
+facility
+ per 
+Policy 3020
+ Field to Hospital 
+Communication
+s. Transmit the EKG (if capable) to the receiving facility. 
+  DOCUMENTATION
+  MANDATORY
+ labeling
+ of ALL 
+12-Lead
+ EKGs
+ with
+ the
+ four
+ patient
+ identifiers
+ listed
+ under
+ procedures.
+    PCR:
+ o Age and gender
+ o Interpretation of the 12
+-lead EKG (leads, ST elevation in millimeters
+)  
+o Location of reciprocal changes (if applicable) 
+ o Symptoms (including presence or absence of chest p
+ain) 
+ o Significant vital signs and physical findings 
+ o Attach a copy 
+(or electronic equivalent) 
+of the EKG to the hospital copy and the 
+file copy of the PCR 
+   

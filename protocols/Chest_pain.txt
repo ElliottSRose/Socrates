@@ -1,0 +1,421 @@
+ 2.06
+ CHEST
+ PAIN
+ / 
+ACUTE
+ CORONARY
+ SYNDROME
+  
+_____________________________________________________________________________________________________________________
+ SAN
+ FRANCISCO
+ EMS
+ AGENCY
+   Effective:
+ 10
+/29
+/18
+ Supersedes:
+ 01/30/17
+  Page
+ 1 
+of 2
+  Strive
+ for
+ total
+ on-scene
+ time
+ of less than
+ or equal
+ to 15 minutes.
+ BLS
+ Treatment
+  Assess
+ circulation,
+ airway,
+ breathing,
+ and
+ responsiveness
+.  Bilateral
+ blood
+ pressures
+. 
+ Oxygen
+ as indic
+ated
+. 
+ Position
+ of comfort
+. 
+ Aspirin
+  NPO
+, u
+nless
+ otherwise
+ noted
+. 
+ Either
+ list
+ patient
+ medications
+ on PCR
+ or g
+ather
+ medication
+ vial
+s 
+for
+ transport
+ to hospital
+. 
+ ALS
+ Treatment
+ Establish
+ a lar
+ge bore
+ (18G
+ or larger)
+ IV with
+ Normal
+ Saline
+ TKO.
+ If possible,
+ establish
+ a second
+ large
+ bore
+ NS
+ lock
+ in the same
+ arm.  12-lead
+ EKG
+: 
+o Do prior
+ to administration
+ of Nitroglycerin
+ or pain
+ medication
+. 
+o Transmit
+ if EKG
+ interpretation
+ is ﬁSTEMIﬂ
+ and
+ notify
+ appropriate
+ STAR
+ center
+. o Apply
+ ﬁstand
+-byﬂ
+ defibrillation
+ pads
+ to all EKG
+ confirmed
+ STEMI
+ patients
+.  Nitroglyceri
+n: DO NOT
+ administer
+ Nitro
+gly
+cerin
+ to patients
+ who have
+ taken
+ a 
+phosphodiesterase
+ inhibitor
+ (erectile
+ dysfunction
+ drugs)
+ within
+ the
+ following
+ time
+ frames:
+ o Sildenafil
+ (Viagra,
+ Revatio)
+ or Varden
+afil
+ (Levitra,
+ Staxin)
+ < 24 hours
+ o Tadalafil
+ (Cialis,
+ Adcirca)
+ < 48 hours
+ o See
+ ﬁUse
+ 12-Lead
+ EKG
+ to Determine
+ Safety
+ of Nitroglycerin
+ Administration
+ﬂ 
+ 
+Persistent
+ chest
+ pain
+ of suspected
+ cardiac
+ origin
+ at any
+ level
+ (scale
+ 1 Œ 
+10) shall
+ be treated
+ with
+ Morphine
+ or Fentanyl
+. 
+Doses
+ may be started
+ at lower
+ levels
+ than
+ for
+ traumatic
+ or other
+ types
+ of pain
+ treatment
+. 
+ 
+Ondanset
+ron
+ as needed
+ for
+ nausea
+.  
+ 
+If hemodynamically
+ unstable,
+ go to Protocol
+ 2.16 Shock
+.  
+  2.06
+ CHEST
+ PAIN
+ / 
+ACUTE
+ CORONARY
+ SYNDROME
+  
+_____________________________________________________________________________________________________________________
+ SAN
+ FRANCISCO
+ EMS
+ AGENCY
+   Effective:
+ 10
+/29
+/18
+ Supersedes:
+ 01/30/17
+  Page
+ 2 
+of 2
+  USE 12
+-LEAD
+ EKG TO DETERMINE SAFETY OF 
+NTG
+ ADMINISTRATION
+   Follow
+ Protocol
+ 7.10
+ 12-Lead
+ EKG
+.     Determine
+ presence
+ of ST e
+levation
+ in leads
+ II, III and
+ AVF.
+ If ST elevation
+ is present,
+ then
+ apply
+ V4R
+ lead
+. 
+ o If ST elevation
+ present
+ in V4R,
+ do NOT
+ give
+ NTG (to
+ maintain
+ RV filling
+ pressure)
+. o If ST elevation
+ in V4R AND
+ clinical
+ signs
+ of shock
+, including
+ SBP
+ < 
+90 Hg go to Protocol
+ 2.16 Shock
+.  Documentation
+   ﬁAt
+ Pati
+ent
+ Sideﬂ
+ Time
+.   VS including
+ bilateral
+ BPs
+ and
+ room
+ air O2 saturatio
+n. 
+  Reassessment
+ of patient
+ symptoms,
+ complaints
+ and
+ vital
+ signs.ﬂ
+ At minimum,
+ two sets
+ of vital
+ signs
+ and
+ a 
+reassessment
+ should
+ be done
+ and
+ documented
+ in the PCR
+ after
+ any
+ intervention
+.   ﬁO-P-Q-R-S-T 
+symptom
+ assessment:
+ O = 
+Onset
+ (Sudden
+ or gradual)
+ P = 
+Provo
+ke (What
+ were
+ you
+ doing
+ when
+ the
+ pain
+ started?
+ Does
+ anything
+ make
+ it better
+ or worse?)
+  
+Q = 
+Quality
+ (What
+ does
+ the
+ pain
+ feel
+ like?)
+  
+R = 
+Region/Radiate
+ (Where
+ is the pain?
+ Does
+ it go anywhere
+ else?)
+  
+S 
+= 
+Severity
+ (On
+ a 
+scale
+ of 1-
+10, 10 being
+ the worst
+ pai
+n 
+you
+ have
+ ever
+ had,
+ how
+ would
+ you 
+rate
+ that
+ pain
+ now?
+ How
+ would
+ you
+ rate
+ that
+ pain
+ at its
+ worst
+ or during
+ exertion/movement?)
+  
+T 
+= 
+Time
+ (When
+ or what
+ time
+ did
+ this
+ start?)
+   Aspirin
+ g
+iven
+ by EMS.
+ Note
+ if patient
+ self
+-administered
+ Aspirin
+ or if it was
+ given
+ by someone
+ else
+ (e.g.
+ medical
+ provider).
+     EKG
+ findings
+. 
+  List
+ patient
+ identifiers
+ on ALL
+ transmitted
+ EKGs:
+ o Patient
+ Last
+ Name
+ + 
+First
+ Initial
+ o Gender
+ o Age
+ o Ambulance
+ company
+ name
+ and
+ unit
+ number
+  

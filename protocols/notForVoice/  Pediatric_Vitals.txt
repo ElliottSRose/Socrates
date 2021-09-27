@@ -1,0 +1,24 @@
+  Normal Pediatric Vital Signs
+  HR Beats/min
+ RR breaths/min
+ BP systolic 
+mm/Hg
+ BP diastolic 
+mm/Hg
+ Newborn
+ (0-1 month)
+ 100 - 180 30 - 60 73 - 92 52 - 65 Infant
+ (1-12 months)
+ 80 - 150 30 - 60 90 - 109 53 - 67 Toddler
+ (1-3 years)
+ 75 - 130 25 - 35 95 - 105 56 - 68 Pre
+-School
+ (3-5 years)
+ 75 - 120 22 - 32 99 - 110 55 - 70 School Age
+ (5-12 years)
+ 70 - 110 20 - 30 97 - 118 60 - 76 Adolescent
+ (13
+-18 years)
+ 65 - 105 16 - 22 110 - 133 63 - 83 Source: Los Angeles County EMS Agency, Pediatric Quick Reference, Sept
+. 2012
+ 

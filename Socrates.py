@@ -5,7 +5,7 @@ Created on Mon Jan 27 21:10:58 2020
 
 @author: elliott
 """
-#required installation of homebrew, gcc, pocketsphinx
+#required installation of homebrew, gcc
 #speechrecognition,pyaudio,portaudio, and pyttsx3
 
 from SocratesSkills import *
@@ -15,25 +15,60 @@ from SocratesSpeech import *
 #---------------------------------START YOUR ENGINES--------------------------
 
 def startSocrates(q=False):
+    while True:
+        query = listener(True, q)
+        if query == 'socrates':
+            return internalstartSocrates(q)
+        if query == 'exit':
+            return 'closing program'
+        else:
+            return startSocrates(q)
+
+def internalstartSocrates(q):
+    s = createSpeaker()
     if q is not None:
         q.queue.clear() #if Socarates is ran withouth the UI, this keeps the queue clear
     playsound('Yes.mp3')
     while True:
-        query = listener(q)
+        query = listener(q=q)
+        print('this query was recieved at the first listener')
         if query=='stop':
+            s.stop()
             print("Stopping Socrates.")
-            return
+            return startSocrates(q)
+
         elif query is not None:
             answer = getAnswer(q,query)
             print('Answer from getAnswer =',answer)
+
             if answer== False or answer==None:
-                playsound('TryAgain.mp3')
-                print('Keep trying with those commands, chief')
+                print('Keep trying with those commands')
+
             elif answer=='stop':
+                s.stop()
                 print('Stopping Socrates')
-                return 
-    
-# startSocrates()
+                return startSocrates(q)
+
+            else:#need to add if statement to deal with 'find' command
+                s.speaker(answer)
+                while True:
+                    print('WL running from last while loop')
+                    command = listener(q=q)
+                    command = command.split(' ',1)
+                    print('WL listener returned command', command)
+                    if command[0]=='stop':
+                        s.stop()
+                        print('WL stopper fired before Socrates restart')
+                        return startSocrates(q)
+                    elif command[0] =='find':
+                        newAnswer = answerNavigator(q,s,command,answer)
+                        print('WL trying to speak, command is: ',command)
+                        s.speaker(newAnswer)
+
+
+# from queue import Queue
+# que = Queue()
+# startSocrates(que)
 #----------------------------------TESTING-------------------------------------
 
 def getMITAnswer_tests():
@@ -61,4 +96,4 @@ def speaker_tests():
 
 #getMITAnswer_tests()
 #answerNavigator_tests()
-#startSocrates()
+# startSocrates()

@@ -1,0 +1,78 @@
+11 DOPAMINE 
+(Intropin
+) 
+ ACTION:  Inotropic
+, Chronotropic
+  Catecholamine
+ (sympathomimetic)
+  Dose depend stimulation of alpha, beta and dopaminergic receptors.  
+  At 
+low doses
+ (2 to 5 mcg/kg/min) stimulates dopaminergic receptors (renal and mesenteric 
+artery dilation).
+  At 
+medium doses
+ (5 to 
+10 mcg/kg/min) stimulates beta receptors (increased heart 
+rate and 
+contractility resulting in increased cardiac output).
+  At 
+high doses
+ (greater than 10 mcg/kg/min) stimulates alpha
+-adrenergic receptors (peripheral 
+vasoconstriction, increased blood pressure).
+ INDICATIONS:
+ Hypotension due to:
+  Cardiogenic shock
+.  Dis
+tributive shock
+:  Neurogenic and anaphylactic shock. 
+  Symptomatic bradycardias
+ unresponsi
+ve to other treatments such as atropine and pacing.
+  
+CONTRAINDICATIONS:
+  Tachydysrhythmias.
+  Use only 1/10 the normal dose in patients on Monoamine Oxidase Inhibitors (MAOI™s) such 
+
+as:  Eutonyl, Parnate, Nardil as they potentiate the effects of Dopamine.
+ POTENTIAL SIDE EFFECTS:
+  Tachydysrhythmias including V
+-Tach 
+and V
+-Fib.
+  Hypertension.
+  Nausea and vomiting.
+  Chest pain, ischemia and acute MI 
+exacerbation.
+  Extravasation
+ causes tissue necrosis.
+  
+ADULT DOSE/ROUTE
+: 
+ Cardiogenic or distributive shock
+: 5-
+20 mcg/kg/min IV/IO infusion. Titrate to SBP >90 
+mmHg.
+  
+PEDIATRIC DOSE/ROUTE:
+  Cardiogenic or distributive shock
+: 5-
+20 mcg/kg/min IV/IO 
+infusion
+. 
+Initiate only per 
+instructions from Base Hospital MD
+. 
+NOTES:
+  Do not infuse 
+in same line 
+with 
+sodium
+ b
+icarbonate
+  Ensure that the patient is not hypovolemic before infusing dopamine
+.  Effective: 11/01/17
+ Supersedes: 
+03/01/15
+     
